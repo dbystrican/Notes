@@ -1,0 +1,7 @@
+# Project exclude paths
+/target/
+/target/classes/
+.idea
+*.class
+*.war
+*.jar
